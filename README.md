@@ -29,7 +29,7 @@ GitHub es una plataforma basada en la nube donde cada desarrollador puede almace
 # Principales Comandos de Git
 
 ## 1. Configuración Inicial
-![configuracion inicial](Imágenes/archivo1.png)
+![configuracion inicial](Imágenes/configuracion.png)
 
 _Establece la identidad para todos los commits que uno vaya a realizar y se configura el salto de línea dependiendo del Sistema Operativo en que se encuentre, en este caso es Windows por lo que tiene que tener su valor tru y los caracteres cr (para subir código) y lf (si se quiere descargar código del repositorio). Es importante usar el mismo email que tiene en GitHub_
 
