@@ -103,30 +103,28 @@ _- Explicar el QUÉ y el POR QUÉ, no el CÓMO._
 ![repositorio](Imágenes/repositorio.png)
 ![repositorio](Imágenes/repositorio1.png)
 ### Paso 2: Configurar Git Localmente (Primera vez)
+![archivo1](Imágenes/configuracion.png)
 
 ### Paso 3: Inicializar el Repositorio Local
 
 Navega a la carpeta de tu proyecto y ejecuta:
-
+![init](Imágenes/init.png)
 Esto crea un repositorio Git vacío en tu carpeta.
 
 ### Paso 4: Agregar Archivos al Staging Area
+Agrega un archivo y verifica cuáles están listos: 
 
-Verifica qué archivos están listos:
+![init](Imágenes/archivo1guardado.png)
 
 ### Paso 5: Hacer el Primer Commit
-
+![init](Imágenes/commit.png)
 
 ### Paso 6: Conectar con el Repositorio Remoto
-Verifica la conexión:
-
 ### Paso 7: Subir los Cambios a GitHub
-
-Si es tu primera vez, Git puede pedirte autenticación.
-
 ### Paso 8: Verificar en GitHub
-
 Refresca tu página de GitHub y verifica que tus archivos aparezcan en el repositorio.
+
+---
 
 ## Conclusiones
 
