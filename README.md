@@ -109,6 +109,7 @@ _- Explicar el QUÉ y el POR QUÉ, no el CÓMO._
 
 Navega a la carpeta de tu proyecto y ejecuta:
 ![init](Imágenes/init.png)
+
 Esto crea un repositorio Git vacío en tu carpeta.
 
 ### Paso 4: Agregar Archivos al Staging Area
